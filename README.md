@@ -2,7 +2,7 @@
 
 This project is an extension and assistance for the project [KottiFlow](https://github.com/Obismadi99/KottiFlow). The goal of *KottiFlow* is to create a green wave assistant for bikes. The focus of *netzwerkis* is the data transmission via Wifi.
 
-We *netzwerkis* want to support the implementation of the nessecary data transfer of *KottiFlow* by 
+We *netzwerkis* want to support the implementation of the necessary data transfer of *KottiFlow* by 
 * optimizing the relevant documentation of the project, 
 * verifying that the most suitable hardware is used and 
 * designing the realisation on site.
