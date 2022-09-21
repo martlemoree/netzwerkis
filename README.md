@@ -8,7 +8,7 @@ We *netzwerkis* want to support the implementation of the necessary data transfe
 * designing the realisation on site.
 
 Here you can see the concerned route of 320 metres:
-![image](https://user-images.githubusercontent.com/72743667/191472204-78bc3b32-ff64-4172-b06c-c42d33984666.png)
+![image](https://user-images.githubusercontent.com/72743667/191537615-d827f714-92d7-4294-8dfa-3f9887f1622c.png)
 
 In order to provide internet across the whole route, this project identifies three different possibilities to do so:
 1. a [powergrid option](https://github.com/martlemoree/netzwerkis/wiki/Construction-plan) 
