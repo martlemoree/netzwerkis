@@ -12,8 +12,8 @@ Here you can see the concerned route of 320 metres:
 
 In order to provide internet across the whole route, this project identifies three different possibilities to do so:
 1. a [powergrid option](https://github.com/martlemoree/netzwerkis/wiki/Construction-plan) 
-2. a [repeater](https://github.com/martlemoree/netzwerkis/wiki/Network#repeater-variant) and 
-3. [directional radio](https://github.com/martlemoree/netzwerkis/wiki/Network#repeater-variant).
+2. a [repeater](https://github.com/martlemoree/netzwerkis/wiki/Alternative-solutions#repeater-variant) and 
+3. [directional radio](https://github.com/martlemoree/netzwerkis/wiki/Alternative-solutions#repeater-variant).
 
 Since the *KottiFlow* used the powergrid option, this project will mainly realise this alternative.
 
