@@ -19,7 +19,7 @@ We have searched for affordable [hardware](https://github.com/martlemoree/netzwe
 
 We provide a tutorial that shows how the hardware can be [set up](https://github.com/martlemoree/netzwerkis/wiki/Hardware-configuration) and [installed](https://github.com/martlemoree/netzwerkis/wiki/Construction-plan) on the track. Also we have compared different alternative [connection methods](https://github.com/martlemoree/netzwerkis/wiki/Alternative-solutions).
 
-Another important aspect is the [power supply](https://github.com/martlemoree/netzwerkis/wiki/power-supply). We have compared different possibilities. Also, we have thought about network and theft [security](https://github.com/martlemoree/netzwerkis/wiki/Security).
+Another important aspect is the [power supply](https://github.com/martlemoree/netzwerkis/wiki/power-supply). We have compared different possibilities. Additionally, we have thought about network and theft [security](https://github.com/martlemoree/netzwerkis/wiki/Security).
 
 To sum up, we give some [suggestions](https://github.com/martlemoree/netzwerkis/wiki/Suggestions-for-realization) for the best realization.
 
