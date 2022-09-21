@@ -38,7 +38,7 @@ However, the resulting suggestion of this project is  - under certain circumstan
 
 You can find our complete documentation in the [Github Wiki](https://github.com/martlemoree/netzwerkis/wiki/).
 
-Please keep in mind, that this project is done by students. We aren´t network experts. The information will not be updated after 22.01.2022, so some informations can be outdatet.
+Please keep in mind, that this project is done by students. We aren´t network experts. The information will not be updated after 22.01.2022, so some information can be outdatet.
 
 # Project partners
 
