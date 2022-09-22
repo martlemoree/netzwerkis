@@ -34,7 +34,7 @@ In order to provide internet across the whole route, this project identifies thr
 
 Since the *KottiFlow* used the powergrid option, this project will mainly realise this alternative.
 
-However, the resulting suggestion of this project is  - under certain circumstances - the directional radio.
+However, the [resulting suggestion of this project](https://github.com/martlemoree/netzwerkis/wiki/Suggestions-for-realization) is  - under certain circumstances - the directional radio.
 
 # Documentation
 
