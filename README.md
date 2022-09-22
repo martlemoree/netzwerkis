@@ -7,6 +7,8 @@ We *netzwerkis* want to support the implementation of the necessary data transfe
 * verifying that the most suitable hardware is used and 
 * designing the realisation on site.
 
+[Here](https://youtu.be/lKoDsksNtFg) you find a video pitching the project. 
+
 Here you can see the concerned route of 320 metres:
 ![karte_radbahn](https://user-images.githubusercontent.com/72743667/191538771-f9249d19-f33c-455b-8fb4-ff3a30a8c6de.png)
 
